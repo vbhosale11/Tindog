@@ -1,2 +1,2 @@
 # Tindog-
-A responsive dating website for dogs made using HTML, CSS (Bootstrap).
+This website is a tinder ripoff for dogs. It was made using HTML and CSS (Bootstrap).
